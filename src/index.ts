@@ -1,9 +1,6 @@
 import cors from 'cors'
 import express from 'express'
-import { config } from '~/config'
-import { PetsController } from '~/resources/pets/pets.controller'
-import { ExceptionsHandler } from '~/middlewares/exceptions.handler'
-import { UnknownRoutesHandler } from '~/middlewares/unknownRoutes.handler'
+
 
 /**
  * On créé une nouvelle "application" express
@@ -23,30 +20,10 @@ app.use(express.json())
  */
 app.use(cors())
 
-/**
- * Toutes les routes CRUD pour les animaux seronts préfixées par `/pets`
- */
-app.use('/pets', PetsController)
+app.get("/", (req, res) => res.send("Express on Vercel"));
 
-/**
- * Homepage (uniquement necessaire pour cette demo)
- */
-app.get('/', (req, res) => res.send('🏠'))
+app.listen(3000, () => console.log("Server ready on port 3000."));
 
-/**
- * Pour toutes les autres routes non définies, on retourne une erreur
- */
-app.all('*', UnknownRoutesHandler)
-
-/**
- * Gestion des erreurs
- * /!\ Cela doit être le dernier `app.use`
- */
-app.use(ExceptionsHandler)
-
-/**
- * On demande à Express d'ecouter les requêtes sur le port défini dans la config
- */
-app.listen(config.API_PORT, () => console.log('Silence, ça tourne.'))
+module.exports = app;
 
 export default app;
