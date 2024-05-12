@@ -1,7 +1,7 @@
 export type PetCategory = 'cat' | 'dog'
 
 export interface Pet {
-  id: number
+  "id": number
   name: string
   type: PetCategory
 }

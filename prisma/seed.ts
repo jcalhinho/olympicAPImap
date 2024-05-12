@@ -52,7 +52,7 @@ async function seedPointOfInterest(dataPath: string) {
     console.log(`Seeding data for PointOfInterest...`);
 
     for (const item of data) {
-        await prisma.pointOfInterest.create({
+        await prisma.spectacle.create({
             data: item
         });
     }
@@ -66,7 +66,7 @@ async function seedProject(dataPath: string) {
     console.log(`Seeding data for Project...`);
 
     for (const item of data) {
-        await prisma.project.create({
+        await prisma.spectateur.create({
             data: item
         });
     }
@@ -80,7 +80,7 @@ async function seedVenue(dataPath: string) {
     console.log(`Seeding data for Venue...`);
 
     for (const item of data) {
-        await prisma.venue.create({
+        await prisma.siteCompet.create({
             data: item
         });
     }
@@ -94,9 +94,9 @@ async function main() {
         await seedPOI("./data/POI.json");
         await seedBoutique("./data/Boutique.json");
         await seedParkingSite("./data/ParkingSite.json");
-        await seedPointOfInterest("./data/PointOfInterest.json");
-        await seedProject("./data/Project.json");
-        await seedVenue("./data/Venue.json");
+        await seedPointOfInterest("./data/Spectacle.json");
+        await seedProject("./data/Spectateur.json");
+        await seedVenue("./data/SiteCompet.json");
     } finally {
         await prisma.$disconnect();
     }

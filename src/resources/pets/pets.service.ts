@@ -19,7 +19,7 @@ export class PetsService {
    * Trouve un animal en particulier
    * @param id - ID unique de l'animal
    */
-  findOne(id: number): Pet | undefined {
+  findOne("id": number): Pet | undefined {
     return this.pets.find(pet => pet.id === id)
   }
 
@@ -31,7 +31,7 @@ export class PetsService {
    * @param petData - Un objet correspondant à un animal, il ne contient pas forcément tout un animal. Attention, on ne prend pas l'id avec.
    * @param id - ID unique de l'animal
    */
-  update(petData: Partial<Pet>, id: number): Pet | undefined {
+  update(petData: Partial<Pet>, "id": number): Pet | undefined {
     const index = this.pets.findIndex(pet => pet.id === id)
 
     if (index === -1) {
@@ -56,7 +56,7 @@ export class PetsService {
     const newPet: Pet = {
       ...petData,
       /* /!\ Ne pas faire ceci dans un vrai projet */
-      id: Math.floor(Math.random() * 100)
+      "id": Math.floor(Math.random() * 100)
     }
 
     this.pets.push(newPet)
@@ -66,7 +66,7 @@ export class PetsService {
   /**
    * Suppression d'un animal
    */
-  delete(id: number) {
+  delete("id": number) {
     this.pets = this.pets.filter(pet => pet.id !== id)
   }
 }

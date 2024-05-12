@@ -1,0 +1,283 @@
+[
+
+  {
+      "poi_id":"ALX-TRI-PG2024",
+      "poi_parent_id":"",
+      "poi_type_id":"site_jo2024",
+      "poi_name":"road event 08 - para-triathlon",
+      "poi_lat":48.8637,
+      "poi_lon":2.3134,
+      
+          "lon":2.3134,
+          "lat":48.8637
+      ,
+      "ufr_pmr":"FALSE"
+  }
+  ,
+  {
+      "poi_id":"ALX-TRI-PG2024_9",
+      "poi_parent_id":"ALX-TRI-PG2024",
+      "poi_type_id":"access_point_jo2024",
+      "poi_name":"ALX-TRI-PG2024 - porte 9",
+      "poi_lat":48.8644034949,
+      "poi_lon":2.31041615325,
+      
+          "lon":2.31041615325,
+          "lat":48.8644034949
+      ,
+      "ufr_pmr":"FALSE"
+  }
+  ,
+  {
+      "poi_id":"ALX-TRI-OG2024",
+      "poi_parent_id":"",
+      "poi_type_id":"site_jo2024",
+      "poi_name":"road event 07 - triathlon OLY",
+      "poi_lat":48.8637,
+      "poi_lon":2.3134,
+      
+          "lon":2.3134,
+          "lat":48.8637
+      ,
+      "ufr_pmr":"FALSE"
+  }
+  ,
+  {
+      "poi_id":"AQC-DIV-OG2024",
+      "poi_parent_id":"",
+      "poi_type_id":"site_jo2024",
+      "poi_name":"Centre aquatique",
+      "poi_lat":48.92356,
+      "poi_lon":2.35538,
+      
+          "lon":2.35538,
+          "lat":48.92356
+      ,
+      "ufr_pmr":"FALSE"
+  }
+  ,
+  {
+      "poi_id":"AQC-WPO-OG2024",
+      "poi_parent_id":"",
+      "poi_type_id":"site_jo2024",
+      "poi_name":"Centre aquatique",
+      "poi_lat":48.92356,
+      "poi_lon":2.35538,
+      
+          "lon":2.35538,
+          "lat":48.92356
+      ,
+      "ufr_pmr":"FALSE"
+  }
+  ,
+  {
+      "poi_id":"BCY-BKB-OG2024",
+      "poi_parent_id":"",
+      "poi_type_id":"site_jo2024",
+      "poi_name":"Arena Bercy",
+      "poi_lat":48.83874,
+      "poi_lon":2.37878,
+      
+          "lon":2.37878,
+          "lat":48.83874
+      ,
+      "ufr_pmr":"FALSE"
+  }
+  ,
+  {
+      "poi_id":"BCY-GAR-OG2024_4",
+      "poi_parent_id":"BCY-GAR-OG2024",
+      "poi_type_id":"access_point_jo2024",
+      "poi_name":"BCY-GAR-OG2024 - porte 4",
+      "poi_lat":48.83935125913919,
+      "poi_lon":2.377659386137901,
+      
+          "lon":2.377659386137901,
+          "lat":48.83935125913919
+      ,
+      "ufr_pmr":"FALSE"
+  }
+  ,
+  {
+      "poi_id":"BCY-GTR-OG2024",
+      "poi_parent_id":"",
+      "poi_type_id":"site_jo2024",
+      "poi_name":"Arena Bercy",
+      "poi_lat":48.83874,
+      "poi_lon":2.37878,
+      
+          "lon":2.37878,
+          "lat":48.83874
+      ,
+      "ufr_pmr":"FALSE"
+  }
+  ,
+  {
+      "poi_id":"BCY-WBK-PG2024_5",
+      "poi_parent_id":"BCY-WBK-PG2024",
+      "poi_type_id":"access_point_jo2024",
+      "poi_name":"BCY-WBK-PG2024 - porte 5",
+      "poi_lat":48.8399613774439,
+      "poi_lon":2.3789044000278565,
+      
+          "lon":2.3789044000278565,
+          "lat":48.8399613774439
+      ,
+      "ufr_pmr":"TRUE"
+  }
+  ,
+  {
+      "poi_id":"CDM-JUD-OG2024_6",
+      "poi_parent_id":"CDM-JUD-OG2024",
+      "poi_type_id":"access_point_jo2024",
+      "poi_name":"CDM-JUD-OG2024 - porte 6",
+      "poi_lat":48.8523035257,
+      "poi_lon":2.30145034148,
+      
+          "lon":2.30145034148,
+          "lat":48.8523035257
+      ,
+      "ufr_pmr":"FALSE"
+  }
+  ,
+  {
+      "poi_id":"CDM-WRE-OG2024",
+      "poi_parent_id":"",
+      "poi_type_id":"site_jo2024",
+      "poi_name":"Arena Champ-de-Mars",
+      "poi_lat":48.85339,
+      "poi_lon":2.30237,
+      
+          "lon":2.30237,
+          "lat":48.85339
+      ,
+      "ufr_pmr":"FALSE"
+  }
+  ,
+  {
+      "poi_id":"CDM-WRE-OG2024_6",
+      "poi_parent_id":"CDM-WRE-OG2024",
+      "poi_type_id":"access_point_jo2024",
+      "poi_name":"CDM-WRE-OG2024 - porte 6",
+      "poi_lat":48.8523035257,
+      "poi_lon":2.30145034148,
+      
+          "lon":2.30145034148,
+          "lat":48.8523035257
+      ,
+      "ufr_pmr":"FALSE"
+  }
+  ,
+  {
+      "poi_id":"CDM-WRU-PG2024_6",
+      "poi_parent_id":"CDM-WRU-PG2024",
+      "poi_type_id":"access_point_jo2024",
+      "poi_name":"CDM-WRU-PG2024 - porte 6",
+      "poi_lat":48.8523035257,
+      "poi_lon":2.30145034148,
+      
+          "lon":2.30145034148,
+          "lat":48.8523035257
+      ,
+      "ufr_pmr":"FALSE"
+  }
+  ,
+  {
+      "poi_id":"CPL-GRY-OG2024",
+      "poi_parent_id":"",
+      "poi_type_id":"site_jo2024",
+      "poi_name":"Arena La Chapelle",
+      "poi_lat":48.89932,
+      "poi_lon":2.36045,
+      
+          "lon":2.36045,
+          "lat":48.89932
+      ,
+      "ufr_pmr":"FALSE"
+  }
+  ,
+  {
+      "poi_id":"CPL-PWL-PG2024_1",
+      "poi_parent_id":"CPL-PWL-PG2024",
+      "poi_type_id":"access_point_jo2024",
+      "poi_name":"CPL-PWL-PG2024 - porte 1",
+      "poi_lat":48.89879514517039,
+      "poi_lon":2.361518634608908,
+      
+          "lon":2.361518634608908,
+          "lat":48.89879514517039
+      ,
+      "ufr_pmr":"FALSE"
+  }
+  ,
+  {
+      "poi_id":"DEF-SWM-OG2024_2",
+      "poi_parent_id":"DEF-SWM-OG2024",
+      "poi_type_id":"access_point_jo2024",
+      "poi_name":"DEF-SWM-OG2024 - porte 2",
+      "poi_lat":48.894367466117316,
+      "poi_lon":2.2304636840747536,
+      
+          "lon":2.2304636840747536,
+          "lat":48.894367466117316
+      ,
+      "ufr_pmr":"FALSE"
+  }
+  ,
+  {
+      "poi_id":"DEF-SWM-PG2024",
+      "poi_parent_id":"",
+      "poi_type_id":"site_jo2024",
+      "poi_name":"Paris La Défense Arena",
+      "poi_lat":48.89568,
+      "poi_lon":2.22963,
+      
+          "lon":2.22963,
+          "lat":48.89568
+      ,
+      "ufr_pmr":"FALSE"
+  }
+  ,
+  {
+      "poi_id":"DEF-WPO-OG2024",
+      "poi_parent_id":"",
+      "poi_type_id":"site_jo2024",
+      "poi_name":"Paris La Défense Arena",
+      "poi_lat":48.89568,
+      "poi_lon":2.22963,
+      
+          "lon":2.22963,
+          "lat":48.89568
+      ,
+      "ufr_pmr":"FALSE"
+  }
+  ,
+  {
+      "poi_id":"EIF-FBB-PG2024",
+      "poi_parent_id":"",
+      "poi_type_id":"site_jo2024",
+      "poi_name":"Stade Tour Eiffel",
+      "poi_lat":48.85611,
+      "poi_lon":2.29796,
+      
+          "lon":2.29796,
+          "lat":48.85611
+      ,
+      "ufr_pmr":"FALSE"
+  }
+  ,
+  {
+      "poi_id":"EIF-VBV-OG2024",
+      "poi_parent_id":"",
+      "poi_type_id":"site_jo2024",
+      "poi_name":"Stade Tour Eiffel",
+      "poi_lat":48.85611,
+      "poi_lon":2.29796,
+      
+          "lon":2.29796,
+          "lat":48.85611
+      ,
+      "ufr_pmr":"FALSE"
+  }
+
+]

@@ -1,0 +1,301 @@
+[
+      {
+          "code_site":"SP4",
+          "nom_site":"Arena Paris Sud 4",
+          "category_id":"venue-olympic",
+          "sports":"Tennis de table (TTE)",
+          "start_date":"2024-07-27",
+          "end_date":"2024-08-10",
+          "adress":"",
+          "latitude":"48,830184",
+          "longitude":"2,289033",
+          
+              "lon":2.289033,
+              "lat":48.830184
+      }
+      ,
+      {
+          "code_site":"STA",
+          "nom_site":"Stade de France",
+          "category_id":"venue-olympic",
+          "sports":"Athlétisme (ATH), Rugby à 7 (RU7)",
+          "start_date":"2024-07-24",
+          "end_date":"2024-08-10",
+          "adress":"",
+          "latitude":"48,924475",
+          "longitude":"2,360127",
+          
+              "lon":2.360127,
+              "lat":48.924475
+      }
+      ,
+      {
+          "code_site":"ELA",
+          "nom_site":"Colline d’Elancourt",
+          "category_id":"venue-olympic",
+          "sports":"Cycling Mountain Bike (MTB)",
+          "start_date":"2024-07-28",
+          "end_date":"2024-07-29",
+          "adress":"",
+          "latitude":"48,78981063",
+          "longitude":"1,9642379",
+          
+              "lon":1.9642379,
+              "lat":48.78981063
+      }
+      ,
+      {
+          "code_site":"LIL",
+          "nom_site":"Stade Pierre Mauroy",
+          "category_id":"venue-olympic",
+          "sports":"Basketball (BKB), Handball (HBL)",
+          "start_date":"2024-07-27",
+          "end_date":"2024-08-11",
+          "adress":"",
+          "latitude":"50,61190661",
+          "longitude":"3,13047318",
+          
+              "lon":3.13047318,
+              "lat":50.61190661
+      }
+      ,
+      {
+          "code_site":"NIC",
+          "nom_site":"Stade de Nice",
+          "category_id":"venue-olympic",
+          "sports":"Football (FBL)",
+          "start_date":"2024-07-24",
+          "end_date":"2024-08-10",
+          "adress":"",
+          "latitude":"43,7051",
+          "longitude":"7,1926",
+          
+              "lon":7.1926,
+              "lat":43.7051
+      }
+      ,
+      {
+          "code_site":"MAM",
+          "nom_site":"Marina de Marseille",
+          "category_id":"venue-olympic",
+          "sports":"Voile (SAL)",
+          "start_date":"2024-07-28 00:00:00",
+          "end_date":"2024-08-10",
+          "adress":"",
+          "latitude":"43,2661",
+          "longitude":"5,3678",
+          
+              "lon":5.3678,
+              "lat":43.2661
+      }
+      ,
+      {
+          "code_site":"SP4",
+          "nom_site":"Arena Paris Sud 4",
+          "category_id":"venue-paralympic",
+          "sports":"Tennis de table para (TTE)",
+          "start_date":"2024-08-29",
+          "end_date":"2024-09-07",
+          "adress":"",
+          "latitude":"48,830184",
+          "longitude":"2,289033",
+          
+              "lon":2.289033,
+              "lat":48.830184
+      }
+      ,
+      {
+          "code_site":"SP6",
+          "nom_site":"Arena Paris Sud 6",
+          "category_id":"venue-olympic",
+          "sports":"Handball (HBL), Haltérophilie (WLF)",
+          "start_date":"2024-07-25",
+          "end_date":"2024-08-11",
+          "adress":"",
+          "latitude":"48,829381",
+          "longitude":"2,290865",
+          
+              "lon":2.290865,
+              "lat":48.829381
+      }
+      ,
+      {
+          "code_site":"EIF",
+          "nom_site":"Stade Tour Eiffel",
+          "category_id":"venue-olympic",
+          "sports":"Volley-ball de plage (VBV)",
+          "start_date":"2024-07-27",
+          "end_date":"2024-08-10",
+          "adress":"",
+          "latitude":"48,85613",
+          "longitude":"2,2978",
+          
+              "lon":2.2978,
+              "lat":48.85613
+      }
+      ,
+      {
+          "code_site":"TRO",
+          "nom_site":"Trocadéro",
+          "category_id":"venue-olympic",
+          "sports":"Athlétisme marche (ATH), Cyclisme sur route - Course sur route (CRD)",
+          "start_date":"2024-08-01",
+          "end_date":"2024-08-07",
+          "adress":"",
+          "latitude":"48,85972558",
+          "longitude":"2,29221884",
+          
+              "lon":2.29221884,
+              "lat":48.85972558
+      }
+      ,
+      {
+          "code_site":"YDM",
+          "nom_site":"Stade Yves-du-Manoir",
+          "category_id":"venue-olympic",
+          "sports":"Hockey (HOC)",
+          "start_date":"2024-07-27",
+          "end_date":"2024-08-09",
+          "adress":"",
+          "latitude":"48,92934371",
+          "longitude":"2,24777122",
+          
+              "lon":2.24777122,
+              "lat":48.92934371
+      }
+      ,
+      {
+          "code_site":"CPL",
+          "nom_site":"Arena Porte de la Chapelle",
+          "category_id":"venue-paralympic",
+          "sports":"Para badminton (BDM), Para Haltérophilie (PWL)",
+          "start_date":"2024-08-29",
+          "end_date":"2024-09-04",
+          "adress":"",
+          "latitude":"48,8997292",
+          "longitude":"2,3605141",
+          
+              "lon":2.3605141,
+              "lat":48.8997292
+      }
+      ,
+      {
+          "code_site":"SP6",
+          "nom_site":"Arena Paris Sud 6",
+          "category_id":"venue-paralympic",
+          "sports":"Goalball (GBL)",
+          "start_date":"2024-08-29",
+          "end_date":"2024-09-05",
+          "adress":"",
+          "latitude":"48,829381",
+          "longitude":"2,290865",
+          
+              "lon":2.290865,
+              "lat":48.829381
+      }
+      ,
+      {
+          "code_site":"LBO",
+          "nom_site":"Site d’escalade du Bourget",
+          "category_id":"venue-olympic",
+          "sports":"Escalade (CLB)",
+          "start_date":"2024-08-05",
+          "end_date":"2024-08-10",
+          "adress":"",
+          "latitude":"48,93693402",
+          "longitude":"2,41997931",
+          
+              "lon":2.41997931,
+              "lat":48.93693402
+      }
+      ,
+      {
+          "code_site":"LGN",
+          "nom_site":"Golf National",
+          "category_id":"venue-olympic",
+          "sports":"Golf (GLF)",
+          "start_date":"2024-09-01",
+          "end_date":"2024-09-10",
+          "adress":"",
+          "latitude":"48.7532",
+          "longitude":"2.0758",
+          
+              "lon":2.0758,
+              "lat":48.7532
+      }
+      ,
+      {
+          "code_site":"VE1",
+          "nom_site":"Vélodrome National de Saint-Quentin-en-Yvelines",
+          "category_id":"venue-paralympic",
+          "sports":"Para Cyclisme sur piste (CTR)",
+          "start_date":"2024-08-29",
+          "end_date":"2024-09-01",
+          "adress":"",
+          "latitude":"48,78800979",
+          "longitude":"2.03498269",
+          
+              "lon":2.03498269,
+              "lat":48.78800979
+      }
+      ,
+      {
+          "code_site":"GRP",
+          "nom_site":"Grand Palais",
+          "category_id":"venue-olympic",
+          "sports":"Escrime (FEN), Taekwondo (TKW)",
+          "start_date":"2024-07-27",
+          "end_date":"2024-08-10",
+          "adress":"",
+          "latitude":"48,86616355",
+          "longitude":"2,3125474",
+          
+              "lon":2.3125474,
+              "lat":48.86616355
+      }
+      ,
+      {
+          "code_site":"CDM",
+          "nom_site":"Arena Champ de Mars",
+          "category_id":"venue-olympic",
+          "sports":"Judo (JUD), Lutte (WRE)",
+          "start_date":"2024-07-27",
+          "end_date":"2024-08-11",
+          "adress":"",
+          "latitude":"48,8531",
+          "longitude":"2,30252",
+          
+              "lon":2.30252,
+              "lat":48.8531
+      }
+      ,
+      {
+          "code_site":"RGA",
+          "nom_site":"Stade Roland Garros",
+          "category_id":"venue-olympic",
+          "sports":"Tennis (TEN), Boxe (BOX)",
+          "start_date":"2024-07-27",
+          "end_date":"2024-08-10",
+          "adress":"",
+          "latitude":"48,845968",
+          "longitude":"2,253522",
+          
+              "lon":2.253522,
+              "lat":48.845968
+      }
+      ,
+      {
+          "code_site":"TAH",
+          "nom_site":"Tahiti Teahupo'o",
+          "category_id":"venue-olympic",
+          "sports":"Surf (SRF)",
+          "start_date":"2024-07-27",
+          "end_date":"2024-07-30",
+          "adress":"",
+          "latitude":"-17,86693",
+          "longitude":"-149,25208",
+          
+              "lon":-149.25208,
+              "lat":-17.86693
+      }
+  ]

@@ -1,0 +1,583 @@
+[
+
+  {
+      "project_oc_r_id":"a7e2o0000000RQ9AAM",
+      "id":"a7f2o00000008gyAAA",
+      "name":"Par delà les mots, un essai chorégraphique",
+      "nom_de_la_structure_c":"Ville de Marseille - Pôle lecture publique",
+      "presentation_synthetique_du_projet_c":"Réalisation de phrases chorégraphiques avec des groupes d’usager.es de la bibliothèque en vue d’un workshop et d’une exposition. Ces phrases prendraient la forme d’un parcours sportif, chaque geste prenant place sur un panneau de bois sculpté. Le projet s’inscrit dans le parcours des Arts Éphémères",
+      "date_de_debut_c":"2024-06-01T14:00:00+00:00",
+      "date_de_fin_c":"2024-06-01T16:00:00+00:00",
+      "public_adresse_c":"Tous publics",
+      "lieu_de_presentation_c":"bibliothèque Le Merlan",
+      "adresse_c":"Avenue Raimu, 13014 Marseille, France",
+      "longitude_c":"5.3981138",
+      "latitude_c":"43.3301421",
+      
+          "lon":5.3981138,
+          "lat":43.3301421
+      ,
+      "departement":13,
+      "commune":"Marseille",
+      "tarif_du_projet_c":"Gratuit",
+      "veuillez_preciser_les_tarifs_du_projet_c":"",
+      "instagram_link":"https://www.instagram.com/marseillebiblio/?hl=fr",
+      "facebook_link":"https://www.facebook.com/marseillebiblio/",
+      "twitter_link":"https://twitter.com/marseillebiblio?lang=fr",
+      "discipline_principale_du_projet_c":[
+          "Transdisciplinaire"
+      ]
+  }
+  ,
+  {
+      "project_oc_r_id":"a7e2o0000000RR2AAM",
+      "id":"a7f2o00000008hpAAA",
+      "name":"BOOST",
+      "nom_de_la_structure_c":"Rencontres Chorégraphiques Internationales de Seine-Saint-Denis",
+      "presentation_synthetique_du_projet_c":"La saison BOOST commencée en septembre 2023 à Bagnolet se déploie jusqu’en juillet 2024. Son objectif ? Mettre un coup de projecteur sur l’histoire et l’actualité du Hip-Hop et des danses urbaines sur le territoire d'Est Ensemble et de la Seine-Saint-Denis, dans le cadre de l’Olympiade culturelle. Grâce à un travail inédit de coopération mis en place dans 9 villes, mobilisant le tissu associatif, les structures municipales et intercommunales, BOOST fédère et rassemble autour des danses dites urbaines, dans leur diversité esthétique et de pratiques. Hip-hop, krump, house, pantsula, waacking, voguing, electro, Afro... Les publics sont conviés à les découvrir et/ou à les retrouver sur scène, en battles, en extérieur, en ateliers, au cinéma... Au coeur de la saison, BOOST vous donne rendez-vous du 27 avril au 5 mai pour un temps fort foisonnant et explosif !",
+      "date_de_debut_c":"2024-05-02T18:00:00+00:00",
+      "date_de_fin_c":"2024-05-02T19:00:00+00:00",
+      "public_adresse_c":"Tous publics",
+      "lieu_de_presentation_c":"Théâtre Berthelot - Jean Guerrin",
+      "adresse_c":"6 Rue Marcelin Berthelot, 93100 Montreuil, France",
+      "longitude_c":"2.4379935",
+      "latitude_c":"48.8561486",
+      
+          "lon":2.4379935,
+          "lat":48.8561486
+      ,
+      "departement":93,
+      "commune":"Montreuil",
+      "tarif_du_projet_c":"Payant",
+      "veuillez_preciser_les_tarifs_du_projet_c":"Réservez vos places sur la billetterie, directement sur le site de BOOST, pour les spectacles du 2 et 3 mai. Pour le film au Cinéma Le Méliès, réservation directement auprès du Cinéma.",
+      "instagram_link":"",
+      "facebook_link":"",
+      "twitter_link":"",
+      "discipline_principale_du_projet_c":[
+          "Danse"
+      ]
+  }
+  ,
+  {
+      "project_oc_r_id":"a7e2o0000000RR2AAM",
+      "id":"a7f2o00000008hrAAA",
+      "name":"BOOST",
+      "nom_de_la_structure_c":"Rencontres Chorégraphiques Internationales de Seine-Saint-Denis",
+      "presentation_synthetique_du_projet_c":"La saison BOOST commencée en septembre 2023 à Bagnolet se déploie jusqu’en juillet 2024. Son objectif ? Mettre un coup de projecteur sur l’histoire et l’actualité du Hip-Hop et des danses urbaines sur le territoire d'Est Ensemble et de la Seine-Saint-Denis, dans le cadre de l’Olympiade culturelle. Grâce à un travail inédit de coopération mis en place dans 9 villes, mobilisant le tissu associatif, les structures municipales et intercommunales, BOOST fédère et rassemble autour des danses dites urbaines, dans leur diversité esthétique et de pratiques. Hip-hop, krump, house, pantsula, waacking, voguing, electro, Afro... Les publics sont conviés à les découvrir et/ou à les retrouver sur scène, en battles, en extérieur, en ateliers, au cinéma... Au coeur de la saison, BOOST vous donne rendez-vous du 27 avril au 5 mai pour un temps fort foisonnant et explosif !",
+      "date_de_debut_c":"2024-05-03T18:30:00+00:00",
+      "date_de_fin_c":"2024-05-03T19:45:00+00:00",
+      "public_adresse_c":"Tous publics",
+      "lieu_de_presentation_c":"Cinéma Le Méliès",
+      "adresse_c":"12 Place Jean Jaurès, 93100 Montreuil, France",
+      "longitude_c":"2.4428262",
+      "latitude_c":"48.8625363",
+      
+          "lon":2.4428262,
+          "lat":48.8625363
+      ,
+      "departement":93,
+      "commune":"Montreuil",
+      "tarif_du_projet_c":"Payant",
+      "veuillez_preciser_les_tarifs_du_projet_c":"Réservez vos places sur la billetterie, directement sur le site de BOOST, pour les spectacles du 2 et 3 mai. Pour le film au Cinéma Le Méliès, réservation directement auprès du Cinéma.",
+      "instagram_link":"",
+      "facebook_link":"",
+      "twitter_link":"",
+      "discipline_principale_du_projet_c":[
+          "Danse"
+      ]
+  }
+  ,
+  {
+      "project_oc_r_id":"a7e2o0000000RRRAA2",
+      "id":"a7f2o00000008iEAAQ",
+      "name":"Corps en mouvement",
+      "nom_de_la_structure_c":"Alarue",
+      "presentation_synthetique_du_projet_c":"La relation qu'entretient le cirque contemporain et le sport, et notamment avec la gymnastique parait particulièrement visible. Explorons ces liens lors du festival Les Zaccros d'ma rue. En lien avec des clubs de gymnastiques, plusieurs rencontres et expérimentations, mêlant artistes et sportifs seront menées, une manière d'échanger sur les pratiques de chacun et les liens qui les unissent. Sur le festival, vous pourrez retrouver le spectacle FLAM(M)E de la cie SCOM, retraçant le parcours d'une jeune gymnaste roumaine dans les années 70. En guise d'événement final, une grande traversée funambule, de la cie Les Filles du Renard Pâle prendra place. Un événement majeur, à grande hauteur entre deux monuments emblématiques de la ville de Nevers.",
+      "date_de_debut_c":"2024-07-05T17:30:00+00:00",
+      "date_de_fin_c":"2024-07-05T18:30:00+00:00",
+      "public_adresse_c":"Tous publics",
+      "lieu_de_presentation_c":"place de la republique",
+      "adresse_c":"Place de la République, 58000 Nevers, France",
+      "longitude_c":"3.1594893",
+      "latitude_c":"46.9873274",
+      
+          "lon":3.1594893,
+          "lat":46.9873274
+      ,
+      "departement":58,
+      "commune":"Nevers",
+      "tarif_du_projet_c":"Gratuit",
+      "veuillez_preciser_les_tarifs_du_projet_c":"",
+      "instagram_link":"",
+      "facebook_link":"",
+      "twitter_link":"",
+      "discipline_principale_du_projet_c":[
+          "Arts de la rue"
+      ]
+  }
+  ,
+  {
+      "project_oc_r_id":"a7e2o0000000RSFAA2",
+      "id":"a7f2o00000008jBAAQ",
+      "name":"Rockin'games",
+      "nom_de_la_structure_c":"Compagnie Luminescence",
+      "presentation_synthetique_du_projet_c":"Le Rock'n'JO c'est la version rock et pétillante des jeux olympiques, organisé par un groupe de pin-up passionnées de sport et de compétition. Au programme : - cérémonie d'ouverture enflammée - tableau de cerceau LED aux couleurs olympiques - combat d'épées ardentes - chorégraphie de GRS de lumière - match de cerceau de feu - battle de bâton LED - final pyrotechnique et bien plus encore Ce spectacle moderne et dynamique est axé autours du sport et de ses valeurs telles que l'esprit d'équipe, le respect et la solidarité ; le tout agrémenté d'une pointe d'humour et de fantaisie. Composé de tableaux mêlant sport et art du cirque avec des chorégraphies synchronisées de feu et de lumière, il est un divertissement idéal pour petits et grands.",
+      "date_de_debut_c":"2024-06-01T20:00:00+00:00",
+      "date_de_fin_c":"2024-06-01T21:00:00+00:00",
+      "public_adresse_c":"Tous publics",
+      "lieu_de_presentation_c":"Château de Buc",
+      "adresse_c":"20 Rue Louis Massotte, 78530 Buc, France",
+      "longitude_c":"2.1247068",
+      "latitude_c":"48.7706876",
+      
+          "lon":2.1247068,
+          "lat":48.7706876
+      ,
+      "departement":78,
+      "commune":"Buc",
+      "tarif_du_projet_c":"Payant",
+      "veuillez_preciser_les_tarifs_du_projet_c":"3000 €",
+      "instagram_link":"https://www.instagram.com/compagnie.luminescence/",
+      "facebook_link":"https://www.facebook.com/compagnie.luminescence",
+      "twitter_link":"",
+      "discipline_principale_du_projet_c":[
+          "Arts de la rue"
+      ]
+  }
+  ,
+  {
+      "project_oc_r_id":"a7e2o0000000RTDAA2",
+      "id":"a7f2o00000008nmAAA",
+      "name":"Exposition Dans la peau d'un sportif",
+      "nom_de_la_structure_c":"Direction des Affaires Culturelles de la Ville de Paris",
+      "presentation_synthetique_du_projet_c":"De novembre 2023 à mars 2024, une classe de 4e du collège Camille Claudel (13e) a accueilli en résidence le journaliste sportif de radio Guillaume Battin, en partenariat avec Radiofrance. Durant 3 mois, accompagnés de leurs enseignants, ils se sont initiés à l’interview et ont rencontré des sportifs et des sportives qui leur ont parlé de leurs parcours, des discriminations parfois subies. 5 podcasts ont été produits et sont proposés à l’écoute, dans un dispositif d’exposition qui présentera aussi le travail photographique de jeunes de l’Association 13 pour Tous",
+      "date_de_debut_c":"2024-04-06T13:00:00+00:00",
+      "date_de_fin_c":"2024-04-30T16:00:00+00:00",
+      "public_adresse_c":"Tous publics",
+      "lieu_de_presentation_c":"Médiathèque Jean-Pierre Melville",
+      "adresse_c":"79 Rue Nationale, 75013 Paris, France",
+      "longitude_c":"2.3663928",
+      "latitude_c":"48.8268092",
+      
+          "lon":2.3663928,
+          "lat":48.8268092
+      ,
+      "departement":75,
+      "commune":"Paris",
+      "tarif_du_projet_c":"Gratuit",
+      "veuillez_preciser_les_tarifs_du_projet_c":"",
+      "instagram_link":"",
+      "facebook_link":"",
+      "twitter_link":"",
+      "discipline_principale_du_projet_c":[
+          "Autre"
+      ]
+  }
+  ,
+  {
+      "project_oc_r_id":"a7e2o0000000RTDAA2",
+      "id":"a7f2o00000008nnAAA",
+      "name":"Exposition Dans la peau d'un sportif",
+      "nom_de_la_structure_c":"Direction des Affaires Culturelles de la Ville de Paris",
+      "presentation_synthetique_du_projet_c":"De novembre 2023 à mars 2024, une classe de 4e du collège Camille Claudel (13e) a accueilli en résidence le journaliste sportif de radio Guillaume Battin, en partenariat avec Radiofrance. Durant 3 mois, accompagnés de leurs enseignants, ils se sont initiés à l’interview et ont rencontré des sportifs et des sportives qui leur ont parlé de leurs parcours, des discriminations parfois subies. 5 podcasts ont été produits et sont proposés à l’écoute, dans un dispositif d’exposition qui présentera aussi le travail photographique de jeunes de l’Association 13 pour Tous",
+      "date_de_debut_c":"2024-04-06T14:00:00+00:00",
+      "date_de_fin_c":"2024-04-06T16:00:00+00:00",
+      "public_adresse_c":"Tous publics",
+      "lieu_de_presentation_c":"Médiathèque Jean-Pierre Melville",
+      "adresse_c":"79 Rue Nationale, 75013 Paris, France",
+      "longitude_c":"2.3663928",
+      "latitude_c":"48.8268092",
+      
+          "lon":2.3663928,
+          "lat":48.8268092
+      ,
+      "departement":75,
+      "commune":"Paris",
+      "tarif_du_projet_c":"Gratuit",
+      "veuillez_preciser_les_tarifs_du_projet_c":"",
+      "instagram_link":"",
+      "facebook_link":"",
+      "twitter_link":"",
+      "discipline_principale_du_projet_c":[
+          "Autre"
+      ]
+  }
+  ,
+  {
+      "project_oc_r_id":"a7e2o0000000RTwAAM",
+      "id":"a7f2o00000008kOAAQ",
+      "name":"Sport et Lecture publique",
+      "nom_de_la_structure_c":"DEPARTEMENT DE L'INDRE",
+      "presentation_synthetique_du_projet_c":"Astrid Guyart, escrimeuse, médaillée olympique et autrice d'albums pour enfants viendra à la rencontre d'enfants et du grand public, dans deux écoles élémentaires et dans deux médiathèques de l'Indre, pour parler du rapport entre le sport et la lecture comme vecteurs de développement des jeunes et supports aux valeurs de l'olympisme.",
+      "date_de_debut_c":"2024-05-21T08:00:00+00:00",
+      "date_de_fin_c":"2024-05-21T09:45:00+00:00",
+      "public_adresse_c":"Tous publics",
+      "lieu_de_presentation_c":"Ecole élémentaire Jean Moulin",
+      "adresse_c":"50 Place Du Champ De Foire, 36140 Aigurande, France",
+      "longitude_c":"1.82643",
+      "latitude_c":"46.434495",
+      
+          "lon":1.82643,
+          "lat":46.434495
+      ,
+      "departement":36,
+      "commune":"Aigurande",
+      "tarif_du_projet_c":"Gratuit",
+      "veuillez_preciser_les_tarifs_du_projet_c":"",
+      "instagram_link":"",
+      "facebook_link":"",
+      "twitter_link":"",
+      "discipline_principale_du_projet_c":[
+          "Bande-dessinée"
+      ]
+  }
+  ,
+  {
+      "project_oc_r_id":"a7e2o0000000RTwAAM",
+      "id":"a7f2o00000008kPAAQ",
+      "name":"Sport et Lecture publique",
+      "nom_de_la_structure_c":"DEPARTEMENT DE L'INDRE",
+      "presentation_synthetique_du_projet_c":"Astrid Guyart, escrimeuse, médaillée olympique et autrice d'albums pour enfants viendra à la rencontre d'enfants et du grand public, dans deux écoles élémentaires et dans deux médiathèques de l'Indre, pour parler du rapport entre le sport et la lecture comme vecteurs de développement des jeunes et supports aux valeurs de l'olympisme.",
+      "date_de_debut_c":"2024-05-21T12:00:00+00:00",
+      "date_de_fin_c":"2024-05-21T13:30:00+00:00",
+      "public_adresse_c":"Tous publics",
+      "lieu_de_presentation_c":"Ecole élémentaire Les Planches",
+      "adresse_c":"4 Rue Du Chateau Des Planches, 36250 Saint-Maur, France",
+      "longitude_c":"1.629414",
+      "latitude_c":"46.803391",
+      
+          "lon":1.629414,
+          "lat":46.803391
+      ,
+      "departement":36,
+      "commune":"Saint-Maur",
+      "tarif_du_projet_c":"Gratuit",
+      "veuillez_preciser_les_tarifs_du_projet_c":"",
+      "instagram_link":"",
+      "facebook_link":"",
+      "twitter_link":"",
+      "discipline_principale_du_projet_c":[
+          "Bande-dessinée"
+      ]
+  }
+  ,
+  {
+      "project_oc_r_id":"a7e2o0000000RUaAAM",
+      "id":"a7f2o00000008l9AAA",
+      "name":"Les Jeux du cirque",
+      "nom_de_la_structure_c":"Vent des cirques",
+      "presentation_synthetique_du_projet_c":"L'association Vent des Cirques présente  les Jeux du cirque  à l'occasion de l'Olympiade Culturelle, celle ci est une programmation artistique et culturelle pluridisciplinaire qui explore les liens entre les arts et le sport !  Les Jeux du cirque , un projet pouvant être organisé en tout lieux et se déroulant en deux temps. Un premier accés simple et attractif des disciplines du cirque pour une découverte complète, puis en deuxième temps, un Challenge ludique et artistique autour des arts du cirque  ! L'occasion pour chacun des participants de se confronter à un concours unique sur le thème des arts.  Le plus important aux Jeux Olympiques n'est pas de gagner mais de participer  Pierre De Courbetin La Victoire sera appréciée par tous les participants à ce moment de partage, d'entre aide et de respect. Vent des Cirques 2024",
+      "date_de_debut_c":"2024-06-03T07:00:00+00:00",
+      "date_de_fin_c":"2024-06-17T16:00:00+00:00",
+      "public_adresse_c":"Jeune public",
+      "lieu_de_presentation_c":"ecole les petis marrons",
+      "adresse_c":"24 Rue de la Raffinerie, 85410 La Caillère-Saint-Hilaire, France",
+      "longitude_c":"-0.9092417",
+      "latitude_c":"46.6190496",
+      
+          "lon":-0.9092417,
+          "lat":46.6190496
+      ,
+      "departement":85,
+      "commune":"La Caillère-Saint-Hilaire",
+      "tarif_du_projet_c":"Payant",
+      "veuillez_preciser_les_tarifs_du_projet_c":"Le tarif du projet Les Jeux du cirque varie selon les structures, ainsi qu' en fonction de l'effectif des établissements.",
+      "instagram_link":"",
+      "facebook_link":"https://www.facebook.com/ventdescirques/",
+      "twitter_link":"",
+      "discipline_principale_du_projet_c":[
+          "Cirque"
+      ]
+  }
+  ,
+  {
+      "project_oc_r_id":"a7e2o0000000RViAAM",
+      "id":"a7f2o00000008m0AAA",
+      "name":"Exposition Sports à Nantes",
+      "nom_de_la_structure_c":"Archives de Nantes",
+      "presentation_synthetique_du_projet_c":"À vos marques, prêts, partez ! Pour la Grande collecte sur le sport Vos archives pour écrire l'histoire du sport à Nantes et dans la métropole. Dans le cadre des Jeux olympiques et paralympiques de 2024 organisés en France, la ville de Nantes est labellisée Terre de jeux. Les Archives de Nantes participent à la Grande collecte nationale lancée par les Archives nationales. A partir de cette grande collecte , les Archives de Nantes présenteront une grande exposition (12 triptyques soit 36 panneaux) Hors les murs de début juin à fin septembre 2024 , dans les quartiers à proximité de 12 équipements sportifs (juin 2024) et en centralité le tempos des JO et jusqu’aux JEDP 2024 (juillet -septembre 2024)",
+      "date_de_debut_c":"2023-05-12T12:56:00+00:00",
+      "date_de_fin_c":"2024-09-30T12:57:00+00:00",
+      "public_adresse_c":"Tous publics",
+      "lieu_de_presentation_c":"Archives de Nantes",
+      "adresse_c":"1 Rue d'Enfer, 44000 Nantes, France",
+      "longitude_c":"-1.5542844",
+      "latitude_c":"47.219091",
+      
+          "lon":-1.5542844,
+          "lat":47.219091
+      ,
+      "departement":44,
+      "commune":"Nantes",
+      "tarif_du_projet_c":"Gratuit",
+      "veuillez_preciser_les_tarifs_du_projet_c":"",
+      "instagram_link":"",
+      "facebook_link":"",
+      "twitter_link":"",
+      "discipline_principale_du_projet_c":[
+          "Patrimoine"
+      ]
+  }
+  ,
+  {
+      "project_oc_r_id":"a7e2o0000000RW7AAM",
+      "id":"a7f2o00000008mPAAQ",
+      "name":"Les Jeux de Seine et Marne 1989 à Chelles",
+      "nom_de_la_structure_c":"Mairie de Chelles",
+      "presentation_synthetique_du_projet_c":"En 1989 se tenaient à Chelles les Vèmes Jeux de Seine-et-Marne. Véritable réplique en miniature des Jeux olympiques, venez revivre cet évènement majeur pour le département et la ville de Chelles à travers une sélection d'archives.",
+      "date_de_debut_c":"2024-07-20T12:00:00+00:00",
+      "date_de_fin_c":"2024-08-11T21:45:00+00:00",
+      "public_adresse_c":"Tous publics",
+      "lieu_de_presentation_c":"Parc du Souvenir Emile Fouchard, entrée de la zone de célébration départementale",
+      "adresse_c":"Parc du Souvenir Émile Fouchard, 77500 Chelles, France",
+      "longitude_c":"2.5875640715731074",
+      "latitude_c":"48.87624125",
+      
+          "lon":2.5875640715731074,
+          "lat":48.87624125
+      ,
+      "departement":77,
+      "commune":"Chelles",
+      "tarif_du_projet_c":"Gratuit",
+      "veuillez_preciser_les_tarifs_du_projet_c":"",
+      "instagram_link":"https://www.instagram.com/villedechelles/",
+      "facebook_link":"https://fr-fr.facebook.com/ville.de.chelles/",
+      "twitter_link":"https://twitter.com/VilleChelles",
+      "discipline_principale_du_projet_c":[
+          "Patrimoine"
+      ]
+  }
+  ,
+  {
+      "project_oc_r_id":"a7e2o0000000RWWAA2",
+      "id":"a7f2o00000008n0AAA",
+      "name":"LE BAR À LECTURES - édition sportive",
+      "nom_de_la_structure_c":"Compagnie Les écriés",
+      "presentation_synthetique_du_projet_c":"Le Bar à Lectures ce sont des lectures d’une quinzaine de minutes en tête à tête rien que pour soi. Le principe est simple, 3 acteurs et actrices, 3 tables où l’on peut s’asseoir seul, en couple, avec ses enfants, le temps d’une histoire. Comme au bar ou au restaurant, on peut choisir son menu. Pour se plonger pleinement dans l’histoire, la lecture s’écoute au casque afin de s’immerger littéralement et de rester libre dans son écoute. Le Bar à Lectures Olympique c’est un endroit de partage et d’échange poétiques et sportifs, de réflexion sur les valeurs véhiculées par les Jeux, de retrouvaille entre les générations pour une troisième mi-temps littéraire.",
+      "date_de_debut_c":"2024-09-07T08:00:00+00:00",
+      "date_de_fin_c":"2024-09-07T11:00:00+00:00",
+      "public_adresse_c":"Tous publics",
+      "lieu_de_presentation_c":"Site des festivités du 11ème Grange-aux-Belles – Agnes Tirop",
+      "adresse_c":"17 Rue Boy-Zelenski, 75010 Paris, France",
+      "longitude_c":"2.368368",
+      "latitude_c":"48.8772778",
+      
+          "lon":2.368368,
+          "lat":48.8772778
+      ,
+      "departement":75,
+      "commune":"Paris",
+      "tarif_du_projet_c":"Gratuit",
+      "veuillez_preciser_les_tarifs_du_projet_c":"",
+      "instagram_link":"",
+      "facebook_link":"",
+      "twitter_link":"",
+      "discipline_principale_du_projet_c":[
+          "Théâtre"
+      ]
+  }
+  ,
+  {
+      "project_oc_r_id":"a7e2o0000000RXPAA2",
+      "id":"a7f2o00000008nhAAA",
+      "name":"Faire du sport à Orléans (1800-1950)",
+      "nom_de_la_structure_c":"Service Ville d'art et d'histoire - mairie d'Orléans",
+      "presentation_synthetique_du_projet_c":"Les Archives municipales et métropolitaines d’Orléans et le service Ville d’art et d’histoire se sont associés pour créer cette brochure à l’occasion de l’accueil des Jeux olympiques par la France en juillet 2024. Elle rassemble et synthétise des articles, expositions et travaux de recherche épars produits par les Archives autour des pratiques sportives à Orléans depuis le XIX e siècle et jusqu’aux années 1950. Vous découvrirez comment les sociétés de gymnastiques ont pris leur essor, à quel moment l'éducation physique a été instaurée dans les écoles, où avaient lieu les courses automobiles orléanaises ou encore comment nos aïeuls apprenaient à nager dans la Loire. Et pourquoi pas marcher dans leurs pas en suivant le parcours proposé à bicyclette ou en courant ?",
+      "date_de_debut_c":"2024-06-07T14:34:00+00:00",
+      "date_de_fin_c":"2024-06-11T14:35:00+00:00",
+      "public_adresse_c":"Tous publics",
+      "lieu_de_presentation_c":"Archives municipales et métropolitaines d'Orléans",
+      "adresse_c":"1 Place De l'Etape, 45000 Orleans, France",
+      "longitude_c":"1.908449",
+      "latitude_c":"47.903203",
+      
+          "lon":1.908449,
+          "lat":47.903203
+      ,
+      "departement":45,
+      "commune":"Orléans",
+      "tarif_du_projet_c":"Gratuit",
+      "veuillez_preciser_les_tarifs_du_projet_c":"",
+      "instagram_link":"",
+      "facebook_link":"",
+      "twitter_link":"",
+      "discipline_principale_du_projet_c":[
+          "Patrimoine"
+      ]
+  }
+  ,
+  {
+      "project_oc_r_id":"a7e2o000000CrA0AAK",
+      "id":"a7f2o000000DPpkAAG",
+      "name":"Journée de spectacle A l'air libre",
+      "nom_de_la_structure_c":"Conseil départemental de l'Essonne",
+      "presentation_synthetique_du_projet_c":"- 14h00 : l'Atelier de la voûte présente La route sans fin, dans le cadre des 100 ans de l’autodrome de Montlhéry. Au volant de voitures à pédales originales et intrépides, les enfants avaleront la route sans fin dans une ronde d’abeilles multicolores. - 15h00 : De Cuyper vs De Cuyper - Cie Pol et Freddy : deux frères jongleurs s'affrontent. Tous les codes des sports sont utilisés : héroïsme et fair-play, blessures et sponsoring, dopage et règles contournées. Des supporters enthousiastes, un arbitre strict et un commentateur pas toujours objectif complètent le tableau. - 16h00 : Hip hip hop - Cie Josette Baïz / Cellule hip-hop Grenade (partenariat avec le Théâtre Brétigny) : Josette Baïz fait danser des enfants depuis 30 ans sur les scènes prestigieuses du monde entier, sans concession artistique. Hip Hip Hop s’invente comme un clin d’œil chorégraphique à notre humanité partagée et à ce qui nous relie à travers les âges, les corps et les cultures.",
+      "date_de_debut_c":"2024-06-09T13:00:00+00:00",
+      "date_de_fin_c":"2024-06-09T14:00:00+00:00",
+      "public_adresse_c":"Tous publics",
+      "lieu_de_presentation_c":"Domaine départemental de Chamarande",
+      "adresse_c":"38 Rue du Commandant Maurice Arnoux, 91730 Chamarande, France",
+      "longitude_c":"2.219021",
+      "latitude_c":"48.5138804",
+      
+          "lon":2.219021,
+          "lat":48.5138804
+      ,
+      "departement":91,
+      "commune":"Chamarande",
+      "tarif_du_projet_c":"Gratuit",
+      "veuillez_preciser_les_tarifs_du_projet_c":"",
+      "instagram_link":"https://www.instagram.com/domainedechamarande/",
+      "facebook_link":"https://www.facebook.com/Chamarande91",
+      "twitter_link":"",
+      "discipline_principale_du_projet_c":[
+          "Danse"
+      ]
+  }
+  ,
+  {
+      "project_oc_r_id":"a7e2o000000CrAjAAK",
+      "id":"a7f2o000000DPqOAAW",
+      "name":"Echelle célèste",
+      "nom_de_la_structure_c":"Forum Culturel Autrichien",
+      "presentation_synthetique_du_projet_c":"L’Échelle céleste est une installation lumineuse qui représente la connexion entre la terre d’un côté et le ciel et le divin de l’autre, et s’entend comme symbole de la paix. Après avoir été installée à la Cathédrale Saint-Etienne à Vienne en Autriche et à l'égliste Saint Lambert à Münster en Allemagne, l'échelle a été labelisée Echelle de la Paix. Comme les Jeux Olympiques sont traditionnellement une période de trève, cette installation est un fort symbol de paix entre les nations pendant les Jeux Olympiques à Paris. Elle sera installée à l'intérieur de l'église Eustache à Paris. l'Installation a été concue par l'artiste autrichienne Billi Thanner.",
+      "date_de_debut_c":"2024-06-16T17:00:00+00:00",
+      "date_de_fin_c":"2024-09-15T15:00:00+00:00",
+      "public_adresse_c":"Tous publics",
+      "lieu_de_presentation_c":"Eglise Saint-Eustache",
+      "adresse_c":"2 Impasse Saint-Eustache, 75001 Paris, France",
+      "longitude_c":"2.3454521",
+      "latitude_c":"48.8637288",
+      
+          "lon":2.3454521,
+          "lat":48.8637288
+      ,
+      "departement":75,
+      "commune":"Paris",
+      "tarif_du_projet_c":"Gratuit",
+      "veuillez_preciser_les_tarifs_du_projet_c":"",
+      "instagram_link":"https://www.instagram.com/austrocult/",
+      "facebook_link":"https://www.facebook.com/austrocult.fr",
+      "twitter_link":"https://twitter.com/acfparis",
+      "discipline_principale_du_projet_c":[
+          "Arts visuels/plastiques"
+      ]
+  }
+  ,
+  {
+      "project_oc_r_id":"a7e2o000000CrAyAAK",
+      "id":"a7f2o000000DPqJAAW",
+      "name":"La Relève : Attaque sur les Jeux",
+      "nom_de_la_structure_c":"YAMRAJ COMICS",
+      "presentation_synthetique_du_projet_c":"Le projet met en avant les valeurs que les Jeux Olympiques partagent avec les super-héros : le dépassement de soi, le courage, la vertu, la solidarité, la quête de l'excellence et la volonté de promouvoir la paix par l'unité. Soucieux de préserver le patrimoine méconnu, nous utilisons des personnages français de littérature oubliés (Palmyre de 1924, Sâr Dubnotal de 1909 et Fascinax 1921) et permettons à de jeunes auteurs de créer leurs propres personnages (Capitaine Paname, Ghosto, Gymnote et Souf).",
+      "date_de_debut_c":"2024-04-06T13:57:00+00:00",
+      "date_de_fin_c":"2024-09-29T22:00:00+00:00",
+      "public_adresse_c":"Tous publics",
+      "lieu_de_presentation_c":"Association LA MAISON DU PROJET",
+      "adresse_c":"94110 Arcueil, France",
+      "longitude_c":"2.3366502",
+      "latitude_c":"48.8064996",
+      
+          "lon":2.3366502,
+          "lat":48.8064996
+      ,
+      "departement":94,
+      "commune":"Arcueil",
+      "tarif_du_projet_c":"Gratuit",
+      "veuillez_preciser_les_tarifs_du_projet_c":"",
+      "instagram_link":"https://www.instagram.com/yamrajcomics/",
+      "facebook_link":"https://www.facebook.com/groups/YamrajComics/",
+      "twitter_link":"https://twitter.com/YamraComics",
+      "discipline_principale_du_projet_c":[
+          "Bande-dessinée"
+      ]
+  }
+  ,
+  {
+      "project_oc_r_id":"a7e2o000000CrDTAA0",
+      "id":"a7f2o000000DPseAAG",
+      "name":"Decathlon Playground",
+      "nom_de_la_structure_c":"DECATHLON",
+      "presentation_synthetique_du_projet_c":"Plongez dans l'effervescence des Jeux Olympiques sur le Decathlon Playground ! Rejoignez-nous pour une expérience inoubliable où le sport, la musique et l'humour fusionnent dans un cadre unique et inoubliable. Du 27 juillet au 11 août, notre événement ouvre ses portes gratuitement à tous, pour célébrer la culture olympique dans toute sa splendeur. Vibrez au rythme des meilleurs DJ chaque soir, laissez-vous emporter par les rires lors de nos comedy clubs les vendredis, et assistez à des shows sportifs exceptionnels du jeudi au dimanche. Une invitation à la fête, à la découverte et au partage, où chacun trouvera son terrain de jeu. Rejoignez-nous pour des moments d'exception, accessibles à tous chez Decathlon !",
+      "date_de_debut_c":"2024-07-27T10:00:00+00:00",
+      "date_de_fin_c":"2024-08-11T21:00:00+00:00",
+      "public_adresse_c":"Tous publics",
+      "lieu_de_presentation_c":"Parc de la Villette",
+      "adresse_c":"La Villette Cité de la Musique, 211 Avenue Jean Jaurès, 75019 Paris, France",
+      "longitude_c":"2.3935497",
+      "latitude_c":"48.8892294",
+      
+          "lon":2.3935497,
+          "lat":48.8892294
+      ,
+      "departement":75,
+      "commune":"Paris",
+      "tarif_du_projet_c":"Gratuit",
+      "veuillez_preciser_les_tarifs_du_projet_c":"",
+      "instagram_link":"",
+      "facebook_link":"",
+      "twitter_link":"",
+      "discipline_principale_du_projet_c":[
+          "Transdisciplinaire"
+      ]
+  }
+  ,
+  {
+      "project_oc_r_id":"a7e2o000000LGKCAA4",
+      "id":"a7f2o000000LgxdAAC",
+      "name":"DanceKeat",
+      "nom_de_la_structure_c":"Compagnie Keatbeck",
+      "presentation_synthetique_du_projet_c":"DanceKeat Olympics est un projet pluridisciplinaire alliant danse, vidéo et cinéma de patrimoine. Des participants de milieux variés, de 8 à 75 ans, de la région parisienne et des quartiers prioritaires de la ville, sont invités à participer à ce projet de création vidéo. Ces participants réalisent des cartes postales dansées, appelées “DanceKeat”, tournées et créées dans l’espace public au sein même de leur quartier, ville ou région, d’espaces verts aux alentours de Paris. En s’inspirant des Jeux Olympiques, de ses valeurs (Amitié, respect, excellence), les participants réveillent leur corps et esprit par l’imaginaire et la créativité.",
+      "date_de_debut_c":"2023-07-17T07:00:00+00:00",
+      "date_de_fin_c":"2023-07-20T15:00:00+00:00",
+      "public_adresse_c":"Tous publics",
+      "lieu_de_presentation_c":"Base de Loisir de Torcy, Réserve Naturelle de Chelles et Forêt de Fontainebleau",
+      "adresse_c":"Route de Lagny",
+      "longitude_c":"2.6614511",
+      "latitude_c":"48.8607669",
+      
+          "lon":2.6614511,
+          "lat":48.8607669
+      ,
+      "departement":77,
+      "commune":"Torcy",
+      "tarif_du_projet_c":"Gratuit",
+      "veuillez_preciser_les_tarifs_du_projet_c":"",
+      "instagram_link":"https://www.instagram.com/dancekeatschool/",
+      "facebook_link":"https://www.facebook.com/ciekeatbeck/",
+      "twitter_link":"https://twitter.com/KKeatBeck",
+      "discipline_principale_du_projet_c":[
+          "Arts Numériques;Cinéma & Audiovisuel;Danse;Transdisciplinaire"
+      ]
+  }
+  ,
+  {
+      "project_oc_r_id":"a7e2o000000LGKvAAO",
+      "id":"a7f2o000000LgyCAAS",
+      "name":"Ville en fête",
+      "nom_de_la_structure_c":"Mairie de Dammartin-en-goele",
+      "presentation_synthetique_du_projet_c":"Ville en fête tous le mois de juillet: Initiation aux arts du cirque avec l'association CIRCUS VIRUS dans leur chapiteau itinérant; Initiations sportives (beach volley, hockey, badminton, football, pétanque, mini golf, ping pong); Grands jeux; Soirée cinéma plein air; Soirée théâtrale; Exposition Jeux olympiques, en route vers PARIS 2024",
+      "date_de_debut_c":"2022-07-09T07:00:00+00:00",
+      "date_de_fin_c":"2022-07-30T20:00:00+00:00",
+      "public_adresse_c":"Tous publics",
+      "lieu_de_presentation_c":"Parc de la Corbie",
+      "adresse_c":"Avenue Eugène Hémar",
+      "longitude_c":"2.67777",
+      "latitude_c":"49.05423",
+      
+          "lon":2.67777,
+          "lat":49.05423
+      ,
+      "departement":77,
+      "commune":"Dammartin-en-Goële",
+      "tarif_du_projet_c":"",
+      "veuillez_preciser_les_tarifs_du_projet_c":"",
+      "instagram_link":"",
+      "facebook_link":"https://www.facebook.com/people/Ville-de-Dammartin-en-Go%C3%ABle/100077375630503/",
+      "twitter_link":"",
+      "discipline_principale_du_projet_c":[
+          "Cinéma & Audiovisuel;Cirque;Photographie;Théâtre"
+      ]
+  }
+
+]
