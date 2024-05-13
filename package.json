@@ -31,6 +31,7 @@
   "dependencies": {
     "@prisma/client": "^5.13.0",
     "@zenstackhq/runtime": "2.0.3",
+    "@zenstackhq/server": "^2.0.3",
     "cors": "^2.8.5",
     "express": "^4.19.2"
   }

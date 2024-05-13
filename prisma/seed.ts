@@ -5,12 +5,12 @@ import path from 'path';
 const prisma = new PrismaClient();
 
 // Fonction spécifique pour le seeding du modèle POI
-async function seedPOI(dataPath: string) {
+async function seedpoi(dataPath: string) {
     const data = JSON.parse(fs.readFileSync(dataPath, 'utf-8'));
     console.log(`Seeding data for POI...`);
 
     for (const item of data) {
-        await prisma.pOI.create({
+        await prisma.poi.create({
             data: item
         });
     }
@@ -19,7 +19,7 @@ async function seedPOI(dataPath: string) {
 }
 
 // Fonction spécifique pour le seeding du modèle Boutique
-async function seedBoutique(dataPath: string) {
+async function seedboutique(dataPath: string) {
     const data = JSON.parse(fs.readFileSync(dataPath, 'utf-8'));
     console.log(`Seeding data for Boutique...`);
 
@@ -33,12 +33,12 @@ async function seedBoutique(dataPath: string) {
 }
 
 // Fonction spécifique pour le seeding du modèle ParkingSite
-async function seedParkingSite(dataPath: string) {
+async function seedparkingvelo(dataPath: string) {
     const data = JSON.parse(fs.readFileSync(dataPath, 'utf-8'));
     console.log(`Seeding data for ParkingSite...`);
 
     for (const item of data) {
-        await prisma.parkingSite.create({
+        await prisma.parkingvelo.create({
             data: item
         });
     }
@@ -47,7 +47,7 @@ async function seedParkingSite(dataPath: string) {
 }
 
 // Fonction spécifique pour le seeding du modèle PointOfInterest
-async function seedPointOfInterest(dataPath: string) {
+async function seedspectacle(dataPath: string) {
     const data = JSON.parse(fs.readFileSync(dataPath, 'utf-8'));
     console.log(`Seeding data for PointOfInterest...`);
 
@@ -61,7 +61,7 @@ async function seedPointOfInterest(dataPath: string) {
 }
 
 // Fonction spécifique pour le seeding du modèle Project
-async function seedProject(dataPath: string) {
+async function seedspectateur(dataPath: string) {
     const data = JSON.parse(fs.readFileSync(dataPath, 'utf-8'));
     console.log(`Seeding data for Project...`);
 
@@ -75,12 +75,36 @@ async function seedProject(dataPath: string) {
 }
 
 // Fonction spécifique pour le seeding du modèle Venue
-async function seedVenue(dataPath: string) {
+async function seedsitecompet(dataPath: string) {
     const data = JSON.parse(fs.readFileSync(dataPath, 'utf-8'));
     console.log(`Seeding data for Venue...`);
 
     for (const item of data) {
-        await prisma.siteCompet.create({
+        await prisma.sitecompet.create({
+            data: item
+        });
+    }
+
+    console.log(`Seeded ${data.length} items for Venue.`);
+}
+async function seedevent(dataPath: string) {
+    const data = JSON.parse(fs.readFileSync(dataPath, 'utf-8'));
+    console.log(`Seeding data for Venue...`);
+
+    for (const item of data) {
+        await prisma.event.create({
+            data: item
+        });
+    }
+
+    console.log(`Seeded ${data.length} items for Venue.`);
+}
+async function seedflamme(dataPath: string) {
+    const data = JSON.parse(fs.readFileSync(dataPath, 'utf-8'));
+    console.log(`Seeding data for Venue...`);
+
+    for (const item of data) {
+        await prisma.flamme.create({
             data: item
         });
     }
@@ -91,12 +115,14 @@ async function seedVenue(dataPath: string) {
 // Fonction principale orchestrant le seeding
 async function main() {
     try {
-        await seedPOI("./data/POI.json");
-        await seedBoutique("./data/Boutique.json");
-        await seedParkingSite("./data/ParkingSite.json");
-        await seedPointOfInterest("./data/Spectacle.json");
-        await seedProject("./data/Spectateur.json");
-        await seedVenue("./data/SiteCompet.json");
+        // await seedpoi("./data/POI.json");
+        // await seedboutique("./data/Boutique.json");
+        // await seedparkingvelo("./data/ParkingSite.json");
+        // await seedspectacle("./data/Spectacle.json");
+        // await seedspectateur("./data/Spectateur.json");
+        // await seedsitecompet("./data/SiteCompet.json");
+        await seedflamme("./data/flamme.json");
+       //await seedevent("./data/event.json");
     } finally {
         await prisma.$disconnect();
     }

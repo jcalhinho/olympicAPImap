@@ -12,7 +12,7 @@ generator client {
     provider = "prisma-client-js"
 }
 
-model POI {
+model poi {
     poi_id                               String    @id
     poi_name                             String?
     lon                                  Float?
@@ -43,7 +43,7 @@ model POI {
     sportsparalympiquesencompetition_pt  String[]
 }
 
-model Boutique {
+model boutique {
     id           Int     @id @default(autoincrement())
     title        String  @unique
     address      String
@@ -58,7 +58,7 @@ model Boutique {
     ville        String
 }
 
-model ParkingSite {
+model parkingvelo {
     id                  Int     @id @default(autoincrement())
     site                String  
     nom_site            String 
@@ -68,7 +68,7 @@ model ParkingSite {
     lat                 Float
 }
 
-model SiteCompet {
+model sitecompet {
     id           Int     @id @default(autoincrement())
     code_site    String  
     nom_site     String
@@ -83,7 +83,7 @@ model SiteCompet {
     lat          Float
 }
 
-model Spectacle {
+model spectacle {
     id                              String   @id @default(uuid())
     project_oc_r_id                 String   
     name                            String
@@ -108,14 +108,59 @@ model Spectacle {
     discipline_principale_du_projet_c String[]
 }
 
-model Spectateur {
+model spectateur {
     poi_id         String   @id
     poi_parent_id  String?
     poi_type_id    String
     poi_name       String
-    poi_lat        Float
-    poi_lon        Float
+    poi_lat        Float?
+    poi_lon        Float?
     lon            Float
     lat            Float
     ufr_pmr        String
+}
+model flamme {
+      id           Int     @id @default(autoincrement())
+    start_datetime String
+    longitude Float?
+    latitude Float?
+    lon Float? 
+    lat Float?
+}
+model event {
+      id           Int     @id @default(autoincrement())
+    project_id              String?  
+    event_id                String?   
+    event_slug              String?
+    title                   String?
+    category_id             String?
+    category_code           String?
+    subcategory_code        String?
+    photo_link              String?
+    organization_name       String?
+    description             String?
+    starting_date           String?
+    ending_date             String?
+    opening_times           String?
+    public                  String?
+    location                String?
+    address                 String?
+    longitude               Float?
+    latitude                Float?
+    tarif                   String?
+    price_description       String?
+    artistic_direction      String?
+    external_link           String?
+    instagram_link          String?
+    facebook_link           String?
+    twitter_link            String?
+    additional_link         String?
+    presenting_partner      String?
+    partner_logo_url        String?
+    partner_redirection_link String?
+    reservation             String?
+    accessibility           String?
+    lon                     Float?
+    lat                     Float?
+    competition             String?
 }
